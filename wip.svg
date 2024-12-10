@@ -26,19 +26,19 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="320">                                                     :*@@*</tspan>
 </text>
 
-<text x="570" y="65" fill="#c9d1d9">
-<tspan x="570" y="65">abd0mlk</tspan>
-<tspan x="570" y="85">——————</tspan>
-<tspan x="570" y="105" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan>
-<tspan x="570" y="125" class="keyColor">Uptime</tspan>: <tspan class="valueColor">17 years, 2 months</tspan>
-<tspan x="570" y="145" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.3</tspan>
-<tspan x="570" y="185" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
-<tspan x="570" y="205" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML</tspan>
-<tspan x="570" y="225" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Urdu</tspan>
-<tspan x="570" y="265" class="keyColor">Contact</tspan>:
-<tspan x="570" y="285">——————</tspan>
-<tspan x="570" y="305" class="keyColor">Email</tspan>: <tspan class="valueColor">abd0mlk.016@gmail.com</tspan>
-<tspan x="570" y="325" class="keyColor">Discord</tspan>: <tspan class="valueColor">abd0mlk</tspan>
+<text x="570" y="63" fill="#c9d1d9">
+<tspan x="570" y="63">abd0mlk</tspan>
+<tspan x="570" y="83">——————</tspan>
+<tspan x="570" y="103" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan>
+<tspan x="570" y="123" class="keyColor">Uptime</tspan>: <tspan class="valueColor">17 years, 2 months</tspan>
+<tspan x="570" y="143" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.3</tspan>
+<tspan x="570" y="183" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
+<tspan x="570" y="203" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML</tspan>
+<tspan x="570" y="223" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Urdu</tspan>
+<tspan x="570" y="263" class="keyColor">Contact</tspan>:
+<tspan x="570" y="283">——————</tspan>
+<tspan x="570" y="303" class="keyColor">Email</tspan>: <tspan class="valueColor">abd0mlk.016@gmail.com</tspan>
+<tspan x="570" y="323" class="keyColor">Discord</tspan>: <tspan class="valueColor">abd0mlk</tspan>
 </text>
 
 <style xmlns="" class="darkreader darkreader--fallback">html, body, body :not(iframe) {
