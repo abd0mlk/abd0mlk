@@ -8,35 +8,37 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+<rect width="900px" height="380px" fill="#161b22" rx="15"/>
 
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                          :=                               </tspan>
-<tspan x="15" y="50">                        .*- *:                             </tspan>
-<tspan x="15" y="70">                    .**:.    :=%*.                         </tspan>
-<tspan x="15" y="90">                  -%              .*@:                     </tspan>
-<tspan x="15" y="110">                =*                    :*#%=:*             </tspan>
-<tspan x="15" y="130">##*=:         =*     .%#                   -+             </tspan>
-<tspan x="15" y="150">    .:=*%%*--#.       . :*#=:              *              </tspan>
-<tspan x="15" y="170">           :*                   %%.       :=              </tspan>
-<tspan x="15" y="190">            %*++%#-  :+%%+:.               =*             </tspan>
-<tspan x="15" y="210">                            .-*##*          =-            </tspan>
-<tspan x="15" y="230">                                +.   .*##%*- #:           </tspan>
-<tspan x="15" y="250">                                 ::::      .::+%%#=.      </tspan>
-<tspan x="15" y="270">                                                     :*@@*</tspan>
+<text x="15" y="80" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="80">                          :=                               </tspan>
+<tspan x="15" y="100">                        .*- *:                             </tspan>
+<tspan x="15" y="120">                    .**:.    :=%*.                         </tspan>
+<tspan x="15" y="140">                  -%              .*@:                     </tspan>
+<tspan x="15" y="160">                =*                    :*#%=:*             </tspan>
+<tspan x="15" y="180">##*=:         =*     .%#                   -+             </tspan>
+<tspan x="15" y="200">    .:=*%%*--#.       . :*#=:              *              </tspan>
+<tspan x="15" y="220">           :*                   %%.       :=              </tspan>
+<tspan x="15" y="240">            %*++%#-  :+%%+:.               =*             </tspan>
+<tspan x="15" y="260">                            .-*##*          =-            </tspan>
+<tspan x="15" y="280">                                +.   .*##%*- #:           </tspan>
+<tspan x="15" y="300">                                 ::::      .::+%%#=.      </tspan>
+<tspan x="15" y="320">                                                     :*@@*</tspan>
 </text>
 
-<text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">abd0mlk</tspan>
-<tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.3</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Urdu</tspan>
-<tspan x="370" y="330" class="keyColor">Contact</tspan>:
-<tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">abd0mlk.016@gmail.com</tspan>
-<tspan x="370" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">abd0mlk</tspan>
+<text x="570" y="65" fill="#c9d1d9">
+<tspan x="570" y="65">abd0mlk</tspan>
+<tspan x="570" y="85">——————</tspan>
+<tspan x="570" y="105" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan>
+<tspan x="570" y="125" class="keyColor">Uptime</tspan>: <tspan class="valueColor">17 years, 2 months</tspan>
+<tspan x="570" y="145" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.95.3</tspan>
+<tspan x="570" y="185" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
+<tspan x="570" y="205" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML</tspan>
+<tspan x="570" y="225" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Urdu</tspan>
+<tspan x="570" y="265" class="keyColor">Contact</tspan>:
+<tspan x="570" y="285">——————</tspan>
+<tspan x="570" y="305" class="keyColor">Email</tspan>: <tspan class="valueColor">abd0mlk.016@gmail.com</tspan>
+<tspan x="570" y="325" class="keyColor">Discord</tspan>: <tspan class="valueColor">abd0mlk</tspan>
 </text>
 
 <style xmlns="" class="darkreader darkreader--fallback">html, body, body :not(iframe) {
