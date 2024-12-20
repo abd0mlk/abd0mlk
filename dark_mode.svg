@@ -31,7 +31,7 @@ text, tspan {white-space: pre;}
 <tspan x="570" y="83">——————</tspan>
 <tspan x="570" y="103" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan>
 <tspan x="570" y="123" class="keyColor">Uptime</tspan>: <tspan class="valueColor">17 years, 2 months</tspan>
-<tspan x="570" y="143" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.96.1</tspan>
+<tspan x="570" y="143" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.96.2</tspan>
 <tspan x="570" y="183" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python</tspan>
 <tspan x="570" y="203" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML</tspan>
 <tspan x="570" y="223" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Urdu</tspan>
