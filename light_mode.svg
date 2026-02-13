@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="900px" height="380px" font-size="16px">
 <style>
-.keyColor {fill: #953800;}
-.valueColor {fill: #0a3069;}
+.keyColor {fill: #fe640b;}
+.valueColor {fill: #209fb5;}
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="900px" height="380px" fill="#f6f8fa" rx="15"/>
+<rect width="900px" height="380px" fill="#e6e9ef" rx="15"/>
 
-<text x="15" y="80" fill="#24292f" class="ascii">
+<text x="15" y="80" fill="#dd7878" class="ascii">
 <tspan x="15" y="80">                          :=                               </tspan>
 <tspan x="15" y="100">                        .*- *:                             </tspan>
 <tspan x="15" y="120">                    .**:.    :=%*.                         </tspan>
@@ -26,7 +26,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="320">                                                     :*@@*</tspan>
 </text>
 
-<text x="570" y="63" fill="#24292f">
+<text x="570" y="63" fill="#4c4f69">
 <tspan x="570" y="63">abd@mlk</tspan>
 <tspan x="570" y="83">——————</tspan>
 <tspan x="570" y="103" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, Android</tspan>
